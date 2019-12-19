@@ -199,7 +199,7 @@ U.S. House Of Representives Ninety-eighth Congress APRIL 6, 7, 1983</a></b></li>
 
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(110).pdf" style="text-decoration:none;">Beslan: Events and Lessons Learned</a></b></li>  
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(111).pdf" style="text-decoration:none;">Real Numbers: A Closer Look at GM's Tech Spending Cuts</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(111).pdf" style="text-decoration:none;">Wealth and Income Inequality</a></b></li>  
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(112).pdf" style="text-decoration:none;"> The DoD CIO Charter: A Template for I.T. Governance?</a></b></li>  
 

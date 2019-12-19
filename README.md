@@ -120,7 +120,7 @@ U.S. House Of Representives Ninety-eighth Congress APRIL 6, 7, 1983</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(65).pdf" style="text-decoration:none;">The Price of Dirty Data</a></b></li>                         
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(66).pdf" style="text-decoration:none;"> Real Numbers: What Should You Be: Strategic or Tactical?</a></b></li>  
      <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(67).pdf" style="text-decoration:none;">Workbook: Tactical vs. Strategic</a></b></li>  
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(68).pdf" style="text-decoration:none;">Managing the Evolution to Advanced Information Systems</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(68).pdf" style="text-decoration:none;">Net Centric Strategy for Defense Transformation</a></b></li>  
                                              
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(69).pdf" style="text-decoration:none;">Leaders Ranked by Revenue</a></b></li>                         
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(70).pdf" style="text-decoration:none;">Real Numbers: 3 Metrics to Gauge Security Spending</a></b></li>  

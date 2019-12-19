@@ -229,6 +229,17 @@ U.S. House Of Representives Ninety-eighth Congress APRIL 6, 7, 1983</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(125).pdf" style="text-decoration:none;"> Is Outsourcing Profitable?</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(127).pdf" style="text-decoration:none;"> A Model for the Systems Architecture of the Future</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(131).pdf" style="text-decoration:none;"> The Economics of Outsourcing</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(132).pdf" style="text-decoration:none;">Jewish Partizan Warfare in Slovakia</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(133).pdf" style="text-decoration:none;">Boy Partisan Aids in Destruction of Freight Train</a></b></li>
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(135).pdf" style="text-decoration:none;">Six Rules for Finding IT Value</a></b></li>
+
 
 
 

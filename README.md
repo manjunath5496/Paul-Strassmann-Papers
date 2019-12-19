@@ -227,6 +227,8 @@ U.S. House Of Representives Ninety-eighth Congress APRIL 6, 7, 1983</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(124).pdf" style="text-decoration:none;"> Information Productivity Rankings 1995: Global</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(125).pdf" style="text-decoration:none;"> Is Outsourcing Profitable?</a></b></li>
+
 
 
 

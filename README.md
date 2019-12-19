@@ -213,7 +213,19 @@ U.S. House Of Representives Ninety-eighth Congress APRIL 6, 7, 1983</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(117).pdf" style="text-decoration:none;"> Life Without Cable: One Man's View of an Untethered Future</a></b></li>  
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(118).pdf" style="text-decoration:none;">Paul A. Strassmann Archival Collection, 1940‐1986 (Bulk 1940‐1953)</a></b></li>  
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(119).pdf" style="text-decoration:none;"> The #1 CIO Issue: How to Explain and Justify I.T. Budgets</a></b></li>  
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(120).pdf" style="text-decoration:none;">Defining and Measuring Information Productivity</a></b></li>  
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(121).pdf" style="text-decoration:none;">Information Productivity Rankings 1995: Banking</a></b></li>  
+
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(122).pdf" style="text-decoration:none;">Information Productivity Rankings 1995: Industrials</a></b></li>  
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(123).pdf" style="text-decoration:none;">Information Productivity Rankings 1994: Global</a></b></li>  
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(124).pdf" style="text-decoration:none;"> Information Productivity Rankings 1995: Global</a></b></li>
 
 
 

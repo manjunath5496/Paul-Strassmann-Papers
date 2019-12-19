@@ -178,30 +178,30 @@ U.S. House Of Representives Ninety-eighth Congress APRIL 6, 7, 1983</a></b></li>
 
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(100).pdf" style="text-decoration:none;">Fundamental Internet Security Flaws</a></b></li>  
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(45).pdf" style="text-decoration:none;">Real Numbers: Check How to Verify If You Are Important</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(101).pdf" style="text-decoration:none;">How SOA Fits Into Cloud Computing, 2010 SOA Symposium April 22, 2009</a></b></li>  
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(46).pdf" style="text-decoration:none;">Does Your CIO Have Clout?</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(102).pdf" style="text-decoration:none;">How SOA Fits into Cloud Computing, 2010 SOA Symposium April 22, 2010</a></b></li>  
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(47).pdf" style="text-decoration:none;">Real Numbers: Find True Indicators of Tech Superiority</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(103).pdf" style="text-decoration:none;">Cyber-Warfare</a></b></li>  
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(48).pdf" style="text-decoration:none;">Measuring Your I.T. Superiority</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(104).pdf" style="text-decoration:none;">Managing a Portfolio During a Recession</a></b></li>  
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(49).pdf" style="text-decoration:none;">The 500 Companies That Manage Information Best</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(105).pdf" style="text-decoration:none;">Lifting the Fog of Corporate Information Management</a></b></li>  
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(50).pdf" style="text-decoration:none;">Is Google Cable's Next Nightmare? No.</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(106).pdf" style="text-decoration:none;">Pioneer Profile</a></b></li>  
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(51).pdf" style="text-decoration:none;">Real Numbers: How Much Is Know-How Worth?</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(107).pdf" style="text-decoration:none;">Strassmann on the future of IT</a></b></li>  
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(52).pdf" style="text-decoration:none;">Putting a Price on Brainpower</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(108).pdf" style="text-decoration:none;">An Interview With Paul A. Strassmann (OH 131)</a></b></li>  
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(53).pdf" style="text-decoration:none;">How Much Is An Employee Worth?</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(109).pdf" style="text-decoration:none;">An Interview With Paul A. Strassmann (OH 172)</a></b></li>  
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(54).pdf" style="text-decoration:none;">Putting a Price on a Head</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(110).pdf" style="text-decoration:none;">Beslan: Events and Lessons Learned</a></b></li>  
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(55).pdf" style="text-decoration:none;">Real Numbers: A Closer Look at GM's Tech Spending Cuts</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(111).pdf" style="text-decoration:none;">Real Numbers: A Closer Look at GM's Tech Spending Cuts</a></b></li>  
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(56).pdf" style="text-decoration:none;"> How to Judge Your I.T. Spending</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(112).pdf" style="text-decoration:none;"> The DoD CIO Charter: A Template for I.T. Governance?</a></b></li>  
 
 
 

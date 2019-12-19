@@ -203,7 +203,15 @@ U.S. House Of Representives Ninety-eighth Congress APRIL 6, 7, 1983</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(112).pdf" style="text-decoration:none;"> The DoD CIO Charter: A Template for I.T. Governance?</a></b></li>  
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(113).pdf" style="text-decoration:none;">Collaboration economics</a></b></li>  
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(114).pdf" style="text-decoration:none;">Cyber Operations</a></b></li>  
+
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(115).pdf" style="text-decoration:none;">Cyber Security for the Department of Defense</a></b></li>  
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(116).pdf" style="text-decoration:none;">The Economics of Information</a></b></li>  
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(117).pdf" style="text-decoration:none;"> Life Without Cable: One Man's View of an Untethered Future</a></b></li>  
 
 
 

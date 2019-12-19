@@ -144,40 +144,39 @@ U.S. House Of Representives Ninety-eighth Congress APRIL 6, 7, 1983</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(83).pdf" style="text-decoration:none;">Real Numbers: HP: Behind The Ascent Of The New IT Champ</a></b></li>  
    <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(84).pdf" style="text-decoration:none;">Real Numbers: Why Pay-For-Use Computing Pays Off</a></b></li>  
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(29).pdf" style="text-decoration:none;">Remarks To The Joint Hearings Of The Subcommittee On Transportation, Aviation & Communications And The Subcommittee On Science, Research And Technology</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(85).pdf" style="text-decoration:none;">Benefits of Server Virtualization</a></b></li>  
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(30).pdf" style="text-decoration:none;">Hearings Before The Subcommittee On Investigations And Oversight Of The Committee On Science And Technology
-U.S. House Of Representives Ninety-eighth Congress APRIL 6, 7, 1983</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(86).pdf" style="text-decoration:none;">The Baseline 500</a></b></li>  
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(31).pdf" style="text-decoration:none;">United States Holocaust Memorial Museum &minus; Interview with Paul Strassmann July 7, 1990</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(87).pdf" style="text-decoration:none;">Getting a glimpse, through numbers, of who's using technology well</a></b></li>  
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(32).pdf" style="text-decoration:none;">Development of Stone Age Weapons</a></b></li>  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(88).pdf" style="text-decoration:none;">Real Numbers: 5 Secure Reasons for Thin Clients</a></b></li>  
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(33).pdf" style="text-decoration:none;">What are Your Employees Worth?</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(89).pdf" style="text-decoration:none;">Service Oriented Architecture (SOA) for DoD</a></b></li>  
 
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(34).pdf" style="text-decoration:none;">Why ROI ratios are now crucial to IT investment </a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(90).pdf" style="text-decoration:none;">The Use of Portals in a Systems Architecture </a></b></li>  
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(35).pdf" style="text-decoration:none;">Power Politics of the CIO</a></b></li>  
-
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(36).pdf" style="text-decoration:none;">Vernietiging van kennis</a></b></li>  
-
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(37).pdf" style="text-decoration:none;">Starting out on a voyage of discovery</a></b></li>  
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(38).pdf" style="text-decoration:none;">The economics of outsourcing</a></b></li>  
-
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(39).pdf" style="text-decoration:none;">The impact of transaction economics</a></b></li>  
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(40).pdf" style="text-decoration:none;">Foundations of Information Economics &minus; Part III</a></b></li>  
-
-   <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(41).pdf" style="text-decoration:none;">Real Numbers: Does Outsourcing Deliver the Goods?</a></b></li>  
-
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(42).pdf" style="text-decoration:none;">The Structure of IT Spending as a Measure of Organizational Disorder</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(91).pdf" style="text-decoration:none;">Budgeting DoD Information Technologies</a></b></li>  
 
 
-<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(43).pdf" style="text-decoration:none;">Real Numbers: Taking a Bite Out of Overhead</a></b></li>  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(92).pdf" style="text-decoration:none;">Introduction to Virtualization</a></b></li>  
 
-  <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(44).pdf" style="text-decoration:none;">Does Your Tech Budget Have Teeth?</a></b></li>  
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(93).pdf" style="text-decoration:none;">Data Center Evolu.on and the "Cloud"</a></b></li>  
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(94).pdf" style="text-decoration:none;">Operation of a Network Control Center</a></b></li>  
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(95).pdf" style="text-decoration:none;">The Economics of Thin Clients</a></b></li>  
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(96).pdf" style="text-decoration:none;">Network-Centric Systems Need Standards and Metrics</a></b></li>  
+
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(97).pdf" style="text-decoration:none;">Assymetric Cyber Warfare</a></b></li>  
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(98).pdf" style="text-decoration:none;">Operating Network Centric Systems on a "Cloud"</a></b></li>  
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(99).pdf" style="text-decoration:none;">The Internet's Vulnerabilities are Built Into Its Infrastructure</a></b></li>  
+
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(100).pdf" style="text-decoration:none;">Fundamental Internet Security Flaws</a></b></li>  
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(45).pdf" style="text-decoration:none;">Real Numbers: Check How to Verify If You Are Important</a></b></li>  
 

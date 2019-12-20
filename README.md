@@ -272,6 +272,7 @@ U.S. House Of Representives Ninety-eighth Congress APRIL 6, 7, 1983</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(141).pdf" style="text-decoration:none;">The Economics of US Health Care</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(142).pdf" style="text-decoration:none;">Data Strategy for the Transformation of Business Management</a></b></li>
 
 
 

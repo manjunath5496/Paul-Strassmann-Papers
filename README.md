@@ -246,4 +246,19 @@ U.S. House Of Representives Ninety-eighth Congress APRIL 6, 7, 1983</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(128).pdf" style="text-decoration:none;">Service Oriented Architecture (SOA) for DoD</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(129).pdf" style="text-decoration:none;">Senior Prospects in New Canaan</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(130).pdf" style="text-decoration:none;">The Next I.T. Tsunami</a></b></li>
+
+
+
+
+
+
+
+
+
+
+
 </ul>

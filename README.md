@@ -261,7 +261,16 @@ U.S. House Of Representives Ninety-eighth Congress APRIL 6, 7, 1983</a></b></li>
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(137).pdf" style="text-decoration:none;">Performance of Private Equity Portfolios</a></b></li>
 
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(138).pdf" style="text-decoration:none;">Is the U.S. in an Economic Decline?</a></b></li>
 
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(139).pdf" style="text-decoration:none;">Rebalancing a Retirement Portfolio</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(140).pdf" style="text-decoration:none;">Managing a During a Recession</a></b></li>
+
+
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(141).pdf" style="text-decoration:none;">The Economics of US Health Care</a></b></li>
 
 
 

@@ -240,9 +240,10 @@ U.S. House Of Representives Ninety-eighth Congress APRIL 6, 7, 1983</a></b></li>
 
 <li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(135).pdf" style="text-decoration:none;">Six Rules for Finding IT Value</a></b></li>
 
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(126).pdf" style="text-decoration:none;">What is a Service Oriented Architecture?</a></b></li>
 
 
-
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Paul-Strassmann-Papers/blob/master/paul(128).pdf" style="text-decoration:none;">Service Oriented Architecture (SOA) for DoD</a></b></li>
 
 
 </ul>

@@ -1,4 +1,5 @@
-<p><img src="pas-01.jpg" alt="Paul A. Strassmann" /></p>
+<p><img src="pas-01.jpg" alt="Paul A. Strassmann" /></p></br>
+
 <p>PAUL A. STRASSMANN&rsquo;s career includes service as chief corporate information systems executive (1956-1978; 1990-1993, and 2002-2003), vice-president of strategic planning for office automation (1978-1985), and information systems researcher and professor (1986 to date).</p>
 <p>Mr. Strassmann was Distinguished Professor of Information Sciences at&nbsp;<strong>George Mason School of Information Technology</strong>. He is Contributing Editor of the&nbsp;<strong>Armed Forces Communications &amp; Electronics Association Signal</strong>&nbsp;magazine and serves as the Chairman of the Board of Directors of&nbsp;<strong>Queralt</strong>, a company that offers Radio Frequency Tag identification services for high-value objects. He was leader of the InfoSecurity practice at the&nbsp;<strong>International Data Corporation</strong>&nbsp;and retired after that organization was sold to an international firm.</p>
 <p>He holds registered U.S. Trademarks for Return-on-Management&reg;, R-O-M&reg;, Information Productivity&reg; and Knowledge Capital&reg;. In 2009 he received an Honorary Doctorate degree from the George Mason University.</p>
